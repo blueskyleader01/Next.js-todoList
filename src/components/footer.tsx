@@ -5,7 +5,7 @@ export const Footer = () => {
     <footer className="text-muted-foreground absolute bottom-2 w-full text-center text-sm">
       © {new Date().getFullYear()} By{' '}
       <Button variant="link" className="p-0" asChild>
-        <a href="https://michalskolak.netlify.app/">Blueskyleader01</a>
+        <a href="https://michalskolak.netlify.app/">Martin Chaves</a>
       </Button>
     </footer>
   );
